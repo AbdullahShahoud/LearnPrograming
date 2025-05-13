@@ -1,16 +1,17 @@
 # learn_programtion
 
-A new Flutter project.
+This mobile application provides an interactive learning experience for students in technical subjects. The key features include:
 
-## Getting Started
+Course Content: Courses are presented through detailed lessons and educational videos.
 
-This project is a starting point for a Flutter application.
+Quizzes & Final Exam: Each course includes quizzes after every level, with a final exam at the end.
 
-A few resources to get you started if this is your first Flutter project:
+Resource Library: A collection of educational books and references to support learning.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Student Profile: Displays the student’s progress, grades, and achievements.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Notifications: Keeps students updated with reminders and course updates.
+
+Instructor Access: Allows instructors to add and edit course content and interact with students by answering their questions.
+
+This app aims to enhance self-paced learning with interactive features and effective progress tracking.
